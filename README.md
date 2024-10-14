@@ -1,4 +1,4 @@
-# ¡Hola! Soy [Débora F. Kellenberger] 👋
+# ¡Hola! Soy Débora F. Kellenberger 👋
 
 ## ¿Quién soy?:
 Soy Analista de Datos apasionada por transformar datos en información valiosa. Disfruto creando soluciones que mejoren la toma de decisiones.
