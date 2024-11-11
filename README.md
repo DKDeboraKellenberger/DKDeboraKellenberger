@@ -1,3 +1,4 @@
+![Encabezado]("C:\Users\debor\OneDrive\Documentos\Henry\JOBPREP\LinkedIn_Banner_Celeste.png")
 # ¡Hola! Soy Débora F. Kellenberger 👋
 
 ## ¿Quién soy?:
