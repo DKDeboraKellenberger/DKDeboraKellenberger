@@ -1,4 +1,3 @@
-![Encabezado]("C:\Users\debor\OneDrive\Documentos\Henry\JOBPREP\LinkedIn_Banner_Celeste.png")
 # ¡Hola! Soy Débora F. Kellenberger 👋
 
 ## ¿Quién soy?:
@@ -23,7 +22,7 @@ Actualmente estoy realizando mi proyecto final del bootcamp Henry, en el cual en
 - Aprender y compartir conocimientos sobre nuevas tecnologías y metodologías.
 
 ## 📫 Conéctate conmigo:
-- **LinkedIn**: [www.linkedin.com/in/debora-kellenberger](#)
+- **LinkedIn**: [LinkedIn](www.linkedin.com/in/debora-kellenberger)
 - **Email**: debkellen1@gmail.com
 
 Siempre dispuesta a aprender y a compartir ideas. ¡Colaboremos!
