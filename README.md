@@ -24,6 +24,7 @@ Actualmente estoy realizando mi proyecto final del bootcamp Henry, en el cual en
 ## 📫 Conéctate conmigo:
 - **LinkedIn**: [LinkedIn](www.linkedin.com/in/debora-kellenberger)
 - **Email**: debkellen1@gmail.com
+- **Celular**: +543546510926
 
 Siempre dispuesta a aprender y a compartir ideas. ¡Colaboremos!
 
