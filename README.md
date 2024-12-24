@@ -26,6 +26,6 @@ Actualmente estoy realizando mi proyecto final del bootcamp Henry, en el cual en
 - **Email**: debkellen1@gmail.com
 - **Celular**: +543546510926
 
-Siempre dispuesta a aprender y a compartir ideas. ¡Colaboremos!
+Siempre dispuesta a aprender y a compartir ideas. ¡Colaboremos! 💪🏻
 
 
